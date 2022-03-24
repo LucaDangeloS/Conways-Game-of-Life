@@ -5,5 +5,5 @@ A simple implementation of Conway's Game of Life in python using pygame
 - python3
 - pygame
 
-## RRun
+## Run
 - python ./Main.py
